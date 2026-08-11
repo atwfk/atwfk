@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ahmed twfiek from egypt<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning backend<br>- ⚡ In my free time I play chess ♟ </p>
+<p align="left">I'm Ahmed Twfiek, a software engineer from Egypt 🇪🇬<br><br>- 🚀 Building <a href="https://prepitapp.com" target="_blank">PrepareIt</a> — a multi-restaurant food ordering platform serving Canada, Egypt, and Saudi Arabia<br>- ⚙️ Working across the stack with TypeScript: Node.js &amp; NestJS microservices, Next.js, PostgreSQL, and AWS<br>- ⚡ In my free time I still play chess ♟ </p>
 
 ###
 
