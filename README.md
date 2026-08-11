@@ -19,7 +19,6 @@ Software engineer from Egypt 🇪🇬 who enjoys building products end-to-end �
 
 - 🍽️ Currently building **[PrepareIt](https://prepitapp.com)** — a multi-restaurant food ordering platform serving Canada, Egypt & Saudi Arabia
 - ⚙️ Day-to-day: REST APIs, NestJS microservices, and multi-region infrastructure on AWS
-- ♟️ Off the keyboard, you'll find me playing chess
 
 ## 🛠️ Tech Stack
 
@@ -38,16 +37,12 @@ Software engineer from Egypt 🇪🇬 who enjoys building products end-to-end �
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atwfk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atwfk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=atwfk&theme=tokyonight&hide_border=true&border_radius=5" height="180" alt="Streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atwfk&theme=tokyonight" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atwfk&theme=tokyonight" height="180" alt="Top languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>💬 Always happy to talk TypeScript, distributed systems, or a good chess opening.</sub>
+  <sub>💬 Always happy to talk TypeScript and distributed systems.</sub>
 </div>
