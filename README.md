@@ -56,5 +56,5 @@ Software engineer from Egypt 🇪🇬 who enjoys building products end-to-end �
 ---
 
 <div align="center">
-  <sub>💬 Always happy to talk TypeScript and distributed systems.</sub>
+  <sub>💬 Always happy to talk</sub>
 </div>
