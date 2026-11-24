@@ -2,7 +2,7 @@
 
 # Ahmed Tawfiek
 
-**Senior backend & platform engineer.** I started on the front end, moved to the services behind it, and now own the infrastructure under both.
+**Senior backend & platform engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atwfk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.twfiek8@gmail.com)
@@ -11,7 +11,7 @@
 
 ---
 
-I build and run a multi-tenant ordering platform for restaurant chains across three regions — storefronts, the services behind them, and the cloud infrastructure under all of it.
+I work on a multi-tenant ordering platform for restaurant chains across three regions — the services behind the storefronts, and the cloud infrastructure they run on.
 
 I care about what happens after the code ships: what it costs, how it fails, and how fast you find out.
 
